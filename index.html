@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Physics Pendulum Simulator</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Roboto Mono', monospace;
+      background: radial-gradient(circle at top, #0e0e0e, #1f1f2e);
+      color: white;
+      overflow: hidden;
+      height: 100vh;
+    }
+
+    .pendulum {
+      transform-origin: top center;
+    }
+
+    .glow {
+      filter: drop-shadow(0 0 6px white);
+    }
+
+    input[type="range"]::-webkit-slider-thumb {
+      background-color: #10b981;
+    }
+
+    .label {
+      font-weight: bold;
+      color: #a0aec0;
+    }
+
+    svg {
+      z-index: -1;
+    }
+
+    .data-container {
+      width: 100%;
+      position: absolute;
+      bottom: 10px;
+    }
+
+    .results {
+      flex-grow: 2;
+      text-align: justify;
+    }
+
+    .results .label {
+      color: #1f1f2e;
+    }
+
+    .marker {
+      stroke: #10b981;
+      stroke-dasharray: 4;
+      max-height: 100px;
+    }
+  </style>
+</head>
+
+<body class="">
+
+  <div class="svg-container">
+    <svg id="pendulumSVG" class="absolute top-0 left-1/2 transform -translate-x-1/2" width="1000" height="800">
+      <line x1="-1000" y1="5" x2="1000" y2="5" stroke="#ccc" stroke-width="3" />
+      <line id="markerLeft" class="marker" x1="0" y1="0" x2="0" y2="700" />
+      <line id="markerRight" class="marker" x1="0" y1="0" x2="0" y2="700" />
+      <line id="markerCenter" class="marker" x1="500" y1="0" x2="500" y2="700" />
+      <line id="string" x1="500" y1="5" x2="500" y2="300" stroke="#ccc" stroke-width="2" />
+      <circle id="bob" cx="500" cy="300" r="20" fill="#1f2937" stroke="black" stroke-width="2" />
+    </svg>
+
+  </div>
+
+  <div class="flex justify-between items-start w-full h-full px-4 pt-4 pb-10">
+    <!-- <div class=""> -->
+
+    <div class="data-container flex justify-center gap-2 bg-black bg-opacity-30 p-4 rounded-lg shadow-lg space-y-1 text-sm">
+      <div>
+        <label class="label block">Mass <span id="massVal" class="text-white">5</span> (kg):
+          <input id="mass" type="range" min="1" max="20" step="1" value="5" class="w-full">
+        </label>
+        <label class="label block mt-4">Length <span id="lengthVal" class="text-white">2</span> (m):
+          <input id="length" type="range" min="0.5" max="5" step="0.1" value="2" class="w-full">
+        </label>
+        <label class="label block mt-4">Max Angle <span id="angleVal" class="text-white">10</span>° (degrees):
+          <input id="angle" type="range" min="1" max="15" step="0.5" value="10" class="w-full">
+
+        </label>
+      </div>
+      <div class="results bg-white bg-opacity-90 p-4 rounded-lg shadow-lg space-y-1 text-sm">
+
+        <div class="label">F<sub>restoring</sub>: <span id="fRestoring">0</span> N</div>
+        <div class="label">Acceleration: <span id="acceleration">0</span> m/s²</div>
+        <div class="label">Period: <span id="period">0</span> s</div>
+        <div class="label">Frequency: <span id="frequency">0</span> Hz</div>
+        <div class="label">Angle (θ): <span id="thetaVal">0</span>°</div>
+      </div>
+
+      <div class="flex align-center flex-col justify-center text-sm">
+        <label class="label block">Bob Color:
+          <input id="bobColor" type="color" value="#1f2937" class="w-24 h-10 border-2 border-white rounded">
+        </label>
+        <label class="label block mt-4">Glow:
+          <input id="glowToggle" type="checkbox" class="form-checkbox text-green-500 ml-2">
+        </label>
+      </div>
+    </div>
+    <!-- </div> -->
+    <div class="user-options-container">
+      <h1 class="text-2xl font-bold text-green-300 mb-4">Physics Pendulum Simulator</h1>
+
+
+
+    </div>
+
+  </div>
+
+  <script>
+    const G = 9.81;
+    const massInput = document.getElementById('mass');
+    const lengthInput = document.getElementById('length');
+    const angleInput = document.getElementById('angle');
+    const bobColor = document.getElementById('bobColor');
+    const glowToggle = document.getElementById('glowToggle');
+    const bob = document.getElementById('bob');
+    const string = document.getElementById('string');
+    const svg = document.getElementById('pendulumSVG');
+
+    const fRestoringSpan = document.getElementById('fRestoring');
+    const accelerationSpan = document.getElementById('acceleration');
+    const periodSpan = document.getElementById('period');
+    const frequencySpan = document.getElementById('frequency');
+    const thetaValSpan = document.getElementById('thetaVal');
+
+    const massVal = document.getElementById('massVal');
+    const lengthVal = document.getElementById('lengthVal');
+    const angleVal = document.getElementById('angleVal');
+
+    const markerLeft = document.getElementById('markerLeft');
+    const markerRight = document.getElementById('markerRight');
+    const markerCenter = document.getElementById('markerCenter');
+
+    let t = 0;
+    let dt = 0.02;
+
+    let mass = parseFloat(massInput.value);
+    let length = parseFloat(lengthInput.value);
+    let maxAngleDeg = parseFloat(angleInput.value);
+
+    function updateMarkers(maxAngleRad, length) {
+      const leftX = 500 + length * 100 * Math.sin(-maxAngleRad);
+      const rightX = 500 + length * 100 * Math.sin(maxAngleRad);
+      markerLeft.setAttribute('x1', leftX);
+      markerLeft.setAttribute('x2', leftX);
+      markerRight.setAttribute('x1', rightX);
+      markerRight.setAttribute('x2', rightX);
+    }
+
+    function updatePendulum() {
+      mass = parseFloat(massInput.value);
+      length = parseFloat(lengthInput.value);
+      maxAngleDeg = parseFloat(angleInput.value);
+
+      const maxAngleRad = maxAngleDeg * Math.PI / 180;
+      massVal.textContent = mass;
+      lengthVal.textContent = length;
+      angleVal.textContent = maxAngleDeg;
+
+      bob.setAttribute('fill', bobColor.value);
+      bob.setAttribute('r', 10 + mass);
+
+      const period = 2 * Math.PI * Math.sqrt(length / G);
+      const frequency = 1 / period;
+      periodSpan.textContent = period.toFixed(2);
+      frequencySpan.textContent = frequency.toFixed(2);
+
+      const theta = maxAngleRad * Math.cos((2 * Math.PI / period) * t);
+      const x = 500 + length * 100 * Math.sin(theta);
+      const y = 5 + length * 100 * Math.cos(theta);
+
+      string.setAttribute('x2', x);
+      string.setAttribute('y2', y);
+      bob.setAttribute('cx', x);
+      bob.setAttribute('cy', y);
+
+      const restoringForce = -mass * G * Math.sin(theta);
+      const acceleration = restoringForce / mass;
+
+      fRestoringSpan.textContent = restoringForce.toFixed(2);
+      accelerationSpan.textContent = acceleration.toFixed(2);
+      thetaValSpan.textContent = (theta * 180 / Math.PI).toFixed(2);
+
+      if (glowToggle.checked) {
+        bob.classList.add('glow');
+      } else {
+        bob.classList.remove('glow');
+      }
+
+      updateMarkers(maxAngleRad, length);
+      t += dt;
+      setTimeout(() => requestAnimationFrame(updatePendulum), 1000 / 60);
+    }
+
+    updatePendulum();
+  </script>
+</body>
+
+</html>
