@@ -3,7 +3,7 @@
 ## Overview
 This project is a **Pendulum Simulator** built using HTML, CSS, and JavaScript. It simulates the motion of a simple pendulum and allows users to interactively modify the physical parameters of the pendulum. The simulation includes real-time calculations of various physical properties, such as restoring force, acceleration, period, and frequency.
 
-Note: This project was developed using ChatGPT with some edits on the styling. 
+Note: This project was developed entierly using ChatGPT except minor edits on the styling. 
 
 ## Features
 - **Real-time calculations**: Displays restoring force, acceleration, period, frequency, angle, and time.
