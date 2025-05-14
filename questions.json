@@ -1,0 +1,852 @@
+[
+  {
+    "question": "In which organic reaction does one or more atoms replace another atom or group of atoms in a molecule?",
+    "options": [
+      "substitution",
+      "condensation",
+      "addition",
+      "elimination"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which organic reaction does an atom or molecule join to an unsaturated molecule and increase its saturation?",
+    "options": [
+      "substitution",
+      "elimination",
+      "addition",
+      "condensation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In which organic reaction do two molecules or parts of the same molecule combine?",
+    "options": [
+      "substitution",
+      "addition",
+      "condensation",
+      "elimination"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which organic reaction can form a protein molecule if repeated many times?",
+    "options": [
+      "substitution",
+      "elimination",
+      "condensation",
+      "addition"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In which organic reaction does a chlorine atom replace a hydrogen atom in a methane molecule?",
+    "options": [
+      "substitution",
+      "condensation",
+      "addition",
+      "elimination"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "To which group of organic reactions does hydrogenation belong?",
+    "options": [
+      "substitution",
+      "condensation",
+      "elimination",
+      "addition"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which functional group is formed by an alkane and a halogen in a substitution reaction?",
+    "options": [
+      "ketone",
+      "ester",
+      "alcohol",
+      "alkyl halide"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which functional groups can combine to form a water molecule in a condensation reaction?",
+    "options": [
+      "amine and carboxyl",
+      "amine and ether",
+      "carboxyl and aldehyde",
+      "alcohol and alkane"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following are large molecules made of many small units joined by organic reactions?",
+    "options": [
+      "monomers",
+      "copolymers",
+      "polymers",
+      "linear polymers"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following are the small units joined to each other by organic reactions in a polymer?",
+    "options": [
+      "monomers",
+      "copolymers",
+      "micropolymers",
+      "linear polymers"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What are the two main types of polymers?",
+    "options": [
+      "thermoplastic and thermosetting",
+      "monomers and copolymers",
+      "linear polymers and branched polymers",
+      "addition polymers and condensation polymers"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What polymer is formed by a chain addition reaction between monomers that have a double bond?",
+    "options": [
+      "addition polymer",
+      "condensation polymer",
+      "branched polymer",
+      "cross-linked polymer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In an addition reaction, monomers are joined by reactions involving",
+    "options": [
+      "identical functional groups.",
+      "single bonds.",
+      "different functional groups.",
+      "double bonds."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What polymers usually consist of two alternating monomers?",
+    "options": [
+      "addition polymers",
+      "condensation polymers",
+      "branched polymers",
+      "cross-linked polymers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Monomers in condensation polymers must have",
+    "options": [
+      "a double bond.",
+      "two different functional groups.",
+      "three monomers.",
+      "cross-links."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Carbohydrate molecules contain atoms of",
+    "options": [
+      "carbon and water.",
+      "carbon, hydrogen, and oxygen.",
+      "carbon, hydrogen, and nitrogen.",
+      "carbon, hydrogen, nitrogen, and oxygen."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A simple sugar that is the basic subunit of a carbohydrate is called a",
+    "options": [
+      "monosaccharide.",
+      "disaccharide.",
+      "polysaccharide.",
+      "polypeptide."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The general formula for a carbohydrate is",
+    "options": [
+      "Cn+m(H2O)m.",
+      "Cn(H2O)m.",
+      "Cn+2m(H2O)m+1.",
+      "Cn(H2O)m+n."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sugars in a polysaccharide are linked together by bonds to a(n)",
+    "options": [
+      "nitrogen atom.",
+      "carbon atom.",
+      "oxygen atom.",
+      "sulfur atom."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The monomer of both starch and cellulose is",
+    "options": [
+      "an amino acid.",
+      "glycogen.",
+      "sucrose.",
+      "glucose."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A disaccharide is formed from how many monosaccharides?",
+    "options": [
+      "one",
+      "two",
+      "three",
+      "four"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The sweetest, naturally occurring sugar is",
+    "options": [
+      "sucrose.",
+      "glucose.",
+      "fructose.",
+      "maltose."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The disaccharide sucrose, made up of two monosaccharides, has the chemical formula",
+    "options": [
+      "C6H12O6.",
+      "C12H22O12.",
+      "C12H22O11.",
+      "C6H22O11."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Breaking down polysaccharides occurs through a process called",
+    "options": [
+      "condensation.",
+      "hydrolysis.",
+      "photosynthesis.",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of biological molecule provides the main source of human food energy?",
+    "options": [
+      "Cholesterol",
+      "amino acid",
+      "carbohydrate",
+      "protein"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which describes a function of glucose in the human body?",
+    "options": [
+      "to give structure to cell walls",
+      "to carry energy through the circulatory system to cells",
+      "to release energy from food",
+      "to serve as a starting material for cellulose"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the two carbohydrates produced by plants?",
+    "options": [
+      "starch and cellulose",
+      "glycogen and cellulose",
+      "cellulose and protein",
+      "glycogen and starch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Biomolecules that are most often insoluble in water are",
+    "options": [
+      "carbohydrates.",
+      "lipids.",
+      "proteins.",
+      "nucleic acids."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The two most abundant elements found in lipids are",
+    "options": [
+      "oxygen and carbon.",
+      "hydrogen and oxygen.",
+      "carbon and hydrogen.",
+      "carbon and phosphorus."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Fatty acids without any carbon—carbon double bonds are",
+    "options": [
+      "saturated fatty acids.",
+      "unsaturated fatty acids.",
+      "saponifiable lipids.",
+      "non-saponifiable lipids."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Fatty acids all have",
+    "options": [
+      "carbon rings and hydroxyl groups.",
+      "amino groups and carboxyl groups.",
+      "hydroxyl groups and carboxyl groups.",
+      "nonpolar \"tails\" and polar \"heads.\""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The part of a fat molecule that allows it to interact with polar molecules is the",
+    "options": [
+      "hydrophobic end.",
+      "hydrophilic end.",
+      "amino end.",
+      "All of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The biomolecules that are the most efficient at storing energy are",
+    "options": [
+      "carbohydrates.",
+      "fats.",
+      "proteins.",
+      "nucleic acids."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Saponifiable lipids that form most of a cell's membrane are",
+    "options": [
+      "triglycerides.",
+      "wax.",
+      "phospholipids.",
+      "spingolipids."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In order for the acid-base reaction called saponification to occur, what must react?",
+    "options": [
+      "fats and water",
+      "carbohydrates and water",
+      "proteins and water",
+      "lipids and NaOH"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The precursor of many hormones is",
+    "options": [
+      "sugar.",
+      "a phospholipid.",
+      "cholesterol.",
+      "a fatty acid."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are the characteristic functional groups of the monomers that form proteins?",
+    "options": [
+      "an amino group and a hydroxyl group",
+      "an amino group and a sulfide linkage",
+      "hydrogen bonds between units",
+      "an amino group and a carboxylic acid group"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of these compounds is a product of protein synthesis?",
+    "options": [
+      "hydrogen",
+      "water",
+      "carbon dioxide",
+      "oxygen"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How many amino acids can the human body synthesize?",
+    "options": [
+      "three",
+      "five",
+      "eleven",
+      "twenty"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "An example of a protein is",
+    "options": [
+      "keratin.",
+      "insulin.",
+      "an antibody.",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "An amino acid that the body does not synthesize and therefore must be supplied through food is a(n)",
+    "options": [
+      "vital amino acid.",
+      "central polypeptide.",
+      "essential amino acid.",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cysteine is unique among amino acids because it",
+    "options": [
+      "forms several hydrogen bonds with other amino acids.",
+      "includes a phosphorus atom in its structure.",
+      "contributes to the primary structure of a protein.",
+      "can form a disulfide bridge with other cysteine units."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Side chains affect a protein structure by",
+    "options": [
+      "forming hydrogen bonds.",
+      "contributing to folding of the molecule.",
+      "forming chemical bonds with other side chains.",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What aspect of a protein is described as the tertiary structure?",
+    "options": [
+      "the order of amino acids",
+      "the combination of several chains into a larger structure",
+      "folding the molecule in sheet and coils",
+      "the three-dimensional shape of the protein molecule"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The sequence of amino acids determines which aspect of a protein's structure?",
+    "options": [
+      "primary",
+      "secondary",
+      "tertiary",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Generally, nonpolar amino acids tend to reside",
+    "options": [
+      "at the exterior of a protein.",
+      "in the interior of a protein.",
+      "at the active side of the protein.",
+      "All of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The genetic trait of curly hair is a result of",
+    "options": [
+      "hydrogen bonding of amino acids.",
+      "peptides forming -helices.",
+      "peptides forming -sheets.",
+      "disulfide bridges."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Hemoglobin is a protein that is responsible for",
+    "options": [
+      "the storage of amino acids.",
+      "giving structural support to tissues.",
+      "oxygen transport to tissues.",
+      "the movement of muscles."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The protein found in nails and hooves is called",
+    "options": [
+      "insulin.",
+      "cholesterol.",
+      "keratin.",
+      "hemoglobin."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Proteins are responsible for",
+    "options": [
+      "transporting oxygen in the blood.",
+      "catalyzing chemical reactions.",
+      "muscle contraction.",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "An example of a fibrous protein is",
+    "options": [
+      "collagen.",
+      "hemoglobin.",
+      "insulin.",
+      "cysteine."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The specific function of a protein is determined by its",
+    "options": [
+      "weight.",
+      "size.",
+      "shape.",
+      "carboxylic acid group."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In the genetic disease sickle cell anemia, the amino acid glutamic acid is replaced by",
+    "options": [
+      "valine.",
+      "glycine.",
+      "cysteine.",
+      "asparagines."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Enzymes are specialized proteins that",
+    "options": [
+      "attract viruses.",
+      "provide storage for amino acids.",
+      "make up muscle tissue.",
+      "None of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which part(s) of a protein structure can be affected by denaturing?",
+    "options": [
+      "primary",
+      "tertiary",
+      "peptide bonds",
+      "All of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The active site of an enzyme functions by",
+    "options": [
+      "forming a permanent bond with a substrate.",
+      "interacting with a variety of different molecules.",
+      "transferring energy from the product to the substrate molecule.",
+      "interacting with a specific substrate and increasing the reaction rate."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "When an enzyme interacts with a substrate, the enzyme",
+    "options": [
+      "forms a new enzyme in the reaction.",
+      "always undergoes a hydrolysis reaction.",
+      "is not changed by the interaction.",
+      "becomes denatured."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "An enzyme increases the rate of a reaction by",
+    "options": [
+      "raising the initial energy of the reactants through formation of an enzyme-substrate complex.",
+      "lowering the final energy of the products through formation of an enzyme-substrate complex.",
+      "lowering the activation energy through formation of an enzyme-substrate complex.",
+      "raising the activation energy through formation of an enzyme-substrate complex."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "All of the chemical processes that occur in an organism are part of the organism's",
+    "options": [
+      "digestion.",
+      "anabolism.",
+      "metabolism.",
+      "protein synthesis."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The overall photosynthesis reaction is",
+    "options": [
+      "endothermic and spontaneous.",
+      "exothermic and spontaneous.",
+      "endothermic and not spontaneous.",
+      "exothermic and not spontaneous."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In order to synthesize proteins, carbohydrates, lipids, and nucleic acids, cells require",
+    "options": [
+      "a phosphate group.",
+      "energy.",
+      "an adenosine group.",
+      "a sugar group."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Living things that depend on plants or animals for food are",
+    "options": [
+      "heterotrophs.",
+      "autotrophs.",
+      "anabolic.",
+      "catabolic."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The only structural difference between ATP and ADP is",
+    "options": [
+      "one phosphate group.",
+      "a five-member ring.",
+      "an adenosine group.",
+      "a sugar group."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary energy exchange mechanism in the body is",
+    "options": [
+      "the ATP cycle.",
+      "photosynthesis.",
+      "digestion.",
+      "muscle contraction."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Energy is released when",
+    "options": [
+      "glucose is synthesized from precursor molecules.",
+      "photosynthesis occurs.",
+      "ATP is hydrolyzed.",
+      "ATP is formed from ADP."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The hydrolysis reaction of ATP is shown in which equation?",
+    "options": [
+      "ADP3–(aq) + H2O(l)  ATP4–(aq) + H2PO4–(aq)",
+      "ATP4–(aq) + H2PO4–(aq)  ADP3–(aq) + H2O(l)",
+      "ATP4–(aq) + H2O(l)  ADP3–(aq) + H2PO4–(aq)",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A series of chemical reactions in the mitochondria that converts glucose, fatty acids, or glycerol into carbon dioxide, NADH, and ATP is known as",
+    "options": [
+      "anabolism.",
+      "glucogenesis.",
+      "the Krebs cycle.",
+      "the ATP cycle."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens to approximately 60% of the energy released during the complete oxidation of glucose?",
+    "options": [
+      "It is stored in the body as fat.",
+      "It is used to synthesize more ATP.",
+      "It is lost by the body in the form of heat.",
+      "It is reused to supply the energy for anabolic reactions."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The breakdown of one glucose molecule can produce",
+    "options": [
+      "25 ATP molecules.",
+      "25 ADP molecules.",
+      "36 ATP molecules.",
+      "36 ADP molecules."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "An example of catabolism is",
+    "options": [
+      "glucogenesis.",
+      "photosynthesis.",
+      "protein synthesis.",
+      "digestion."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Energy is needed for",
+    "options": [
+      "catabolic reactions to occur.",
+      "anabolic reactions to occur.",
+      "digestion to occur.",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Simple molecules are used to build bigger ones through a process called",
+    "options": [
+      "catabolism.",
+      "anabolism.",
+      "hydrolysis.",
+      "digestion."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The base sequence –GGCATGCCA– could represent part of a sequence of",
+    "options": [
+      "DNA.",
+      "RNA.",
+      "either DNA or RNA.",
+      "neither DNA nor RNA."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In a DNA molecule, the base sequence of the two strands is",
+    "options": [
+      "identical.",
+      "complementary.",
+      "independent.",
+      "random."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The sugar in DNA is",
+    "options": [
+      "deionized.",
+      "ribose.",
+      "deoxyribose.",
+      "sucrose."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Nucleic acids are built from units consisting of",
+    "options": [
+      "a sugar, a phosphate group, and a base.",
+      "a sugar, a base, and a carboxylic acid.",
+      "a base and a hydroxyl group.",
+      "a base and an amino group."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The complementary DNA base sequence for the following DNA sequence, ATT GAC CAT, is",
+    "options": [
+      "UAA CUG GAU.",
+      "TAA GAC GTA.",
+      "AUU GAC CAU.",
+      "TAA CTG GTA."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The complementary RNA base sequence for the following DNA sequence, ATT GAC CAT, is",
+    "options": [
+      "UAA CUG GUA.",
+      "TAA GAC GTA.",
+      "AUU GAC CAU.",
+      "TAA CTG GTA."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The corresponding RNA base sequence for the following DNA sequence, TAG CTC TAC, is",
+    "options": [
+      "AUU GAC CAU.",
+      "TAA GTC GTA.",
+      "AUC GAG AUG.",
+      "TAA CTG GTA."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A gene is a sequence of DNA that holds the code for",
+    "options": [
+      "self-replication.",
+      "the manufacture of a polypeptide.",
+      "the manufacture of a carbohydrate.",
+      "recombinant technology."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The first step in protein synthesis is",
+    "options": [
+      "lining up amino acids in sequence.",
+      "unwinding of a segment of the DNA molecule.",
+      "unwinding of a segment of the RNA molecule.",
+      "addition of an amino acid to DNA."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "DNA replication results in the formation of an identical",
+    "options": [
+      "RNA molecule.",
+      "mRNA molecule.",
+      "DNA molecule.",
+      "clone of an organism."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When DNA replication begins,",
+    "options": [
+      "the two strands of the original DNA unzip.",
+      "the two strands of the original RNA unzip.",
+      "the DNA is transferred out of the nucleus.",
+      "the DNA is replicated on the ribosome."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "An amino acid is coded by a sequence of",
+    "options": [
+      "two bases in mRNA.",
+      "three bases in mRNA.",
+      "six bases in mRNA.",
+      "nine bases in mRNA."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The amino acid leucine is coded by the base sequence UUA in",
+    "options": [
+      "humans.",
+      "mice.",
+      "yeast.",
+      "All of the above"
+    ],
+    "answer": 3
+  }
+]
