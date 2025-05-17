@@ -89,7 +89,7 @@
     let answered = [];
 
     async function loadQuestions() {
-      const res = await fetch('questions.json');
+      const res = await fetch('social_studies.json');
       let data = await res.json();
       data.forEach(q => {
         q.originalOptions = [...q.options];
