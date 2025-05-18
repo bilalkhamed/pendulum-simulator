@@ -317,7 +317,7 @@
       "Electrons are ejected from a nucleus.",
       "A nucleus emits a gamma ray."
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "question": "Which process powers the Sun and other stars?",
@@ -497,7 +497,7 @@
       "Positron particle.",
       "Alpha particle."
     ],
-    "answer": 2
+    "answer": 0
   },
   {
     "question": "<sup>201</sup><sub>80</sub>Hg → <sup>201</sup><sub>80</sub>Hg + ?",
