@@ -1,0 +1,722 @@
+[
+  {
+    "question": "The nucleus of an atom is made up of which of the following combinations of particles?",
+    "options": [
+      "Electrons and protons.",
+      "Protons, electrons and neutrons.",
+      "Electrons and neutrons.",
+      "Protons and neutrons."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "To which of the following is the atomic number of a given element equivalent?",
+    "options": [
+      "The number of protons in the nucleus.",
+      "The number of neutrons in the nucleus.",
+      "The sum of the protons and neutrons in the nucleus.",
+      "The number of electrons in the outer shells."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Rutherford's experiments involving the use of alpha particle beams directed onto thin metal foils demonstrated the existence of which of the following?",
+    "options": [
+      "Neutron.",
+      "Nucleus.",
+      "Proton.",
+      "Positron."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does the mass number of a nucleus indicate?",
+    "options": [
+      "The average atomic mass of the element.",
+      "The number of neutrons and protons present.",
+      "The number of protons present.",
+      "The number of neutrons present."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If there are 128 neutrons in Pb-210, how many neutrons are found in the nucleus of Pb-206?",
+    "options": [
+      "122.",
+      "126.",
+      "124.",
+      "130."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the binding energy of a nucleus?",
+    "options": [
+      "The energy released when nucleons bind together to form a stable nucleus.",
+      "The energy needed to remove one of the nucleons.",
+      "The average energy with which any nucleon is bound in the nucleus.",
+      "The mass of the nucleus multiplied by the square of the speed of light."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If the stable nuclei are plotted with neutron number versus proton number, the curve formed by the stable nuclei does not follow the line N = Z. Which of the following influences the binding energy so that this “valley of stability” forms?",
+    "options": [
+      "The volume of the nucleus.",
+      "The proton-neutron mass difference.",
+      "The size of the nuclear surface.",
+      "The Coulomb repulsive force."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "As the number of protons in the nucleus increases, the repulsive force ....................",
+    "options": [
+      "Becomes stronger.",
+      "Remains unchanged.",
+      "Becomes weaker.",
+      "Drops to zero."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "As the number of protons in the nucleus decreases, the repulsive force ....................",
+    "options": [
+      "Becomes stronger.",
+      "Remains unchanged.",
+      "Becomes weaker.",
+      "Drops to zero."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "As the number of neutrons in the nucleus increases, the strong nuclear force ....................",
+    "options": [
+      "Becomes stronger.",
+      "Remains unchanged.",
+      "Becomes weaker.",
+      "Drops to zero."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "As the number of neutrons in the nucleus decreases, the strong nuclear force ....................",
+    "options": [
+      "Becomes stronger.",
+      "Remains unchanged.",
+      "Becomes weaker.",
+      "Drops to zero."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Light nuclei are stable when the ratio of protons to neutrons is ........................",
+    "options": [
+      "Greater than one.",
+      "Equals to one.",
+      "Less than one.",
+      "Equals to two."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When are heavy nuclei most stable?",
+    "options": [
+      "When they contain more protons than neutrons.",
+      "When they contain more neutrons than protons.",
+      "When they contain equal numbers of protons and neutrons.",
+      "When the Coulomb force is stronger than the nuclear force."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Of the main types of radiation emitted from naturally radioactive isotopes, which is the most penetrating?",
+    "options": [
+      "Alpha.",
+      "Gamma.",
+      "Beta.",
+      "Positron."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How does a radioactive isotope that emits an alpha particle change?",
+    "options": [
+      "Atomic number decreases by four.",
+      "Atomic number decreases by two.",
+      "Mass number decreases by four.",
+      "Mass number decreases by one."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A radioactive isotope that emits a beta particle change?",
+    "options": [
+      "Atomic number decreases by four.",
+      "Atomic number decreases by one.",
+      "Mass number decreases by four.",
+      "Mass number decreases by one."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the components of natural radiation, in order from least to most penetrating?",
+    "options": [
+      "Alpha, beta and gamma.",
+      "Beta, gamma and alpha.",
+      "Gamma, beta and alpha.",
+      "Alpha, gamma and beta."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The half-life of a certain radioactive isotope is 5 hours. How much of a 100g sample remains after 10 hours?",
+    "options": [
+      "50 g.",
+      "12.5 g.",
+      "25 g.",
+      "75 g."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A 200g sample of a substance decays to 25g in 3 hours. What is the half-life?",
+    "options": [
+      "30 minutes.",
+      "1.5 hours.",
+      "1 hour.",
+      "2 hours."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The alpha emission process results in the daughter nucleus differing in what manner from the parent?",
+    "options": [
+      "Atomic mass increase by one.",
+      "Atomic number increases by one.",
+      "Atomic number decreases by two.",
+      "Atomic mass decreases by two."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The beta emission process results in the daughter nucleus differing in what manner from the parent?",
+    "options": [
+      "Atomic mass increase by one.",
+      "Atomic number increases by one.",
+      "Atomic number decreases by two.",
+      "Atomic mass decreases by two."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Samples of two different isotopes, X and Y, both contain the same number of radioactive atoms. The half-life of Sample X is twice that of Sample Y. How do their rates of radiation compare?",
+    "options": [
+      "Sample X has a greater rate than sample Y.",
+      "Sample X has a smaller rate than sample Y.",
+      "The rates of Sample X and Sample Y are the same.",
+      "This can't be determined from the information given."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The beta emission process results in the daughter nucleus differing in what manner from the parent?",
+    "options": [
+      "Atomic mass changes by one.",
+      "Atomic number changes by one.",
+      "Atomic number changes by two.",
+      "Atomic mass changes by two."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the radioactive formula, <sup>226</sup><sub>88</sub>Ra → <sup>222</sup><sub>86</sub>Rn + X, what does X represent?",
+    "options": [
+      "Alpha particle.",
+      "Beta particle.",
+      "Positron.",
+      "Gamma ray."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What particle is emitted when Pu-240 decays to U-236?",
+    "options": [
+      "Alpha.",
+      "Positron.",
+      "Beta.",
+      "Gamma."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What particle is emitted when P-32 decays to S-32?",
+    "options": [
+      "Alpha.",
+      "Positron.",
+      "Beta.",
+      "Gamma."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When Bismuth-214 emits a beta particle, the remaining daughter nucleus is ........................",
+    "options": [
+      "Lead-213.",
+      "Polonium-214.",
+      "Actinium-215.",
+      "Bismuth-215."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Radium-226 decays to radon-222 by emitting ........................",
+    "options": [
+      "Beta particles.",
+      "Gamma rays.",
+      "Alpha particles.",
+      "Positrons."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The quotient of (0.693) divided by the half-life of a radioactive substance is equal to the ........................",
+    "options": [
+      "Activity.",
+      "Decay constant.",
+      "Decay rate.",
+      "Decay lifetime."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How many half-lives does it take for a radioactive substance to decay to 12.5 percent of its original amount?",
+    "options": [
+      "1.",
+      "2.",
+      "3.",
+      "4."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In order to adequately control a chain reaction, it is necessary to have within the fissionable material a non-fissionable material that ........................",
+    "options": [
+      "The material absorbs neutrons.",
+      "The material scatters neutrons.",
+      "The material emits neutrons.",
+      "The material converts neutrons."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following best describes nuclear fission?",
+    "options": [
+      "Two light nuclei combine to form a heavier nucleus.",
+      "A heavy nucleus splits into two smaller nuclei.",
+      "Electrons are ejected from a nucleus.",
+      "A nucleus emits a gamma ray."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which process powers the Sun and other stars?",
+    "options": [
+      "Nuclear fission.",
+      "Nuclear fusion.",
+      "Chemical combustion.",
+      "Radioactive decay."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is true about fusion but not about fission?",
+    "options": [
+      "Releases large amounts of energy.",
+      "Can be initiated by a neutron collision.",
+      "Used in nuclear power plants.",
+      "Involves combining nuclei."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In fission reactions, how must the binding energy per nucleon vary?",
+    "options": [
+      "The binding energy per nucleon remains constant as atomic number increases.",
+      "The binding energy per nucleon increases as atomic number increases.",
+      "The binding energy per nucleon decreases as atomic number increases.",
+      "None of the above."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In fusion reactions, how does the binding energy per nucleon vary?",
+    "options": [
+      "The binding energy per nucleon remains constant as atomic number increases.",
+      "The binding energy per nucleon remains constant as atomic number decreases.",
+      "The binding energy per nucleon increases as atomic number increases.",
+      "The binding energy per nucleon decreases as atomic number increases."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What daughter isotopes are produced when a neutron combines with a nucleus of <sup>235</sup><sub>92</sub>U? Assume that three neutrons are also produced in the reaction.",
+    "options": [
+      "<sup>140</sup><sub>56</sub>Ba, <sup>95</sup><sub>36</sub>Kr",
+      "<sup>142</sup><sub>56</sub>Ba, <sup>93</sup><sub>36</sub>Kr",
+      "<sup>140</sup><sub>56</sub>Ba, <sup>93</sup><sub>36</sub>Kr",
+      "<sup>141</sup><sub>56</sub>Ba, <sup>94</sup><sub>36</sub>Kr"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why is it not possible for a thermonuclear fusion reaction to be maintained in the ocean?",
+    "options": [
+      "The temperature is not high enough.",
+      "The density is not high enough.",
+      "There is insufficient deuterium in the ocean.",
+      "The deuterium in the ocean is not radioactive."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "At this time, all nuclear reactors operate through ........................",
+    "options": [
+      "Fission only.",
+      "Both fission and fusion.",
+      "Fusion only.",
+      "Neither fission nor fusion."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How is a fission reactor different from a fusion reactor?",
+    "options": [
+      "The fuel is cheaper.",
+      "There is less radioactive waste.",
+      "The fuel must be processed.",
+      "The transportation of fuel is safer."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which statement about quarks is *not* correct?",
+    "options": [
+      "Only two quarks are needed to construct a hardon.",
+      "An isolated quark has been observed by physicists.",
+      "Every quark has an antiquark of opposite charge.",
+      "There are six quarks that fit together in pairs."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What fuel is used in fission nuclear reactors?",
+    "options": [
+      "Uranium-234.",
+      "Uranium-238.",
+      "Uranium-235.",
+      "No correct answer."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which type of radiation is emitted when uranium-238 decays to thorium-234?",
+    "options": [
+      "Alpha radiation.",
+      "Gamma rays.",
+      "Beta radiation.",
+      "Positron radiation."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In beta decay, a neutron is converted into a proton. What is emitted?",
+    "options": [
+      "Alpha particle.",
+      "Positron.",
+      "Electron.",
+      "Gamma ray."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A nucleus of carbon-14 decays to nitrogen-14. What radiation is emitted?",
+    "options": [
+      "Alpha radiation.",
+      "Positron radiation.",
+      "Beta radiation.",
+      "Gamma rays."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which decay process emits a helium nucleus?",
+    "options": [
+      "Alpha radiation.",
+      "Gamma rays.",
+      "Beta radiation.",
+      "Neutron emission."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "<sup>238</sup><sub>92</sub>U → <sup>234</sup><sub>90</sub>Th + ?",
+    "options": [
+      "Alpha particle.",
+      "Gamma rays.",
+      "Beta particle.",
+      "Neutron particle."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "<sup>14</sup>C → <sup>14</sup><sub>7</sub>N + ?",
+    "options": [
+      "Alpha particle.",
+      "Gamma rays.",
+      "Beta particle.",
+      "Positron particle."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "<sup>22</sup><sub>11</sub>Na → <sup>22</sup><sub>10</sub>Ne + ?",
+    "options": [
+      "Positron particle.",
+      "Beta particle.",
+      "Alpha particle.",
+      "Gamma rays."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "<sup>17</sup><sub>8</sub>O → <sup>17</sup><sub>9</sub>F + ?",
+    "options": [
+      "Beta particle.",
+      "Gamma rays.",
+      "Positron particle.",
+      "Alpha particle."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "<sup>201</sup><sub>80</sub>Hg → <sup>201</sup><sub>80</sub>Hg + ?",
+    "options": [
+      "Beta particle.",
+      "Gamma rays.",
+      "Alpha particle.",
+      "Neutron particle."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which interaction of nature is weakest?",
+    "options": [
+      "Strong.",
+      "Electromagnetic.",
+      "Weak.",
+      "Gravitational."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which interaction of nature is strongest?",
+    "options": [
+      "Strong.",
+      "Electromagnetic.",
+      "Weak.",
+      "Gravitational."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which particles can mediate from the gravitational interaction?",
+    "options": [
+      "Gravitons.",
+      "Gluons.",
+      "W and Z bosons.",
+      "Photons."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which particles can mediate from the weak nuclear interaction?",
+    "options": [
+      "Gravitons.",
+      "Gluons.",
+      "W and Z bosons.",
+      "Photons."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which particles can mediate from the electromagnetic interaction?",
+    "options": [
+      "Gravitons.",
+      "Gluons.",
+      "W and Z bosons.",
+      "Photons."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which particles can mediate from the strong nuclear interaction?",
+    "options": [
+      "Gravitons.",
+      "Gluons.",
+      "W and Z bosons.",
+      "Photons."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which interaction of nature depends on the distance through which it acts and is involved in beta decay?",
+    "options": [
+      "Strong.",
+      "Gravitational.",
+      "Weak.",
+      "Electromagnetic."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which interaction of nature binds neutrons and protons into nuclei?",
+    "options": [
+      "Strong.",
+      "Electromagnetic.",
+      "Weak.",
+      "Gravitational."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which interaction of nature holds the planets, stars, and galaxies together, even though its effect on elementary particles is negligible?",
+    "options": [
+      "Electromagnetic.",
+      "Weak.",
+      "Strong.",
+      "Gravitational."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which interaction of nature binds atoms and molecules by attracting unlike charges and repulsing like charges?",
+    "options": [
+      "Weak.",
+      "Strong.",
+      "Gravitational.",
+      "Electromagnetic."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following do physicists believe are fundamental particles?",
+    "options": [
+      "Three quarks and three leptons.",
+      "Three quarks and six leptons.",
+      "Six quarks and three leptons.",
+      "Six quarks and six leptons."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is an example of a baryon?",
+    "options": [
+      "Meson.",
+      "Lepton.",
+      "Electron.",
+      "Proton."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of these particles are classified as hadrons?",
+    "options": [
+      "Leptons.",
+      "Mesons.",
+      "Electrons.",
+      "Neutrons."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "As the early universe cooled and expanded, which interaction separated first from the four unified interactions?",
+    "options": [
+      "The strong interaction.",
+      "The weak interaction.",
+      "The electromagnetic interaction.",
+      "The gravitational interaction."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "During the expansion of the early universe, which two interactions were the last to separate?",
+    "options": [
+      "The electromagnetic and weak interactions.",
+      "The electromagnetic and gravitational interactions.",
+      "The gravitational and strong interactions.",
+      "The strong and weak interactions."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A radioactive isotope has a decay constant λ = 0.231 hr⁻¹. What is its half-life?",
+    "options": [
+      "2.0 hours.",
+      "1.5 hours.",
+      "3.0 hours.",
+      "4.0 hours."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If a substance has a half-life of 5 days, what is the decay constant?",
+    "options": [
+      "0.693.",
+      "0.231.",
+      "0.1386.",
+      "0.02."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The decay constant of a sample is λ = 0.0693 min⁻¹. What is its half-life?",
+    "options": [
+      "1 minute.",
+      "10 minutes.",
+      "5 minutes.",
+      "0.5 minutes."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A substance has a half-life of 2 hours. What is its decay constant?",
+    "options": [
+      "0.231.",
+      "0.693.",
+      "0.3465.",
+      "0.020."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If a substance's decay constant is λ = 0.00011 day⁻¹, approximately how long is its half-life?",
+    "options": [
+      "5,000 days.",
+      "7,000 days.",
+      "6,000 days.",
+      "8,000 days."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not one of the current questions regarding the standard model?",
+    "options": [
+      "Why do quarks carry fractional charge and electrons carry whole charge?",
+      "What determines particle mass?",
+      "How many quarks make up a proton?",
+      "Can quarks exist in isolation?"
+    ],
+    "answer": 2
+  }
+]
