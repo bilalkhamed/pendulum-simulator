@@ -1,0 +1,762 @@
+[
+  {
+    "question": "A 17-year-old gymnast reports fatigue, frequent bruising, and poor wound healing. Blood tests show a vitamin C deficiency. Which section of her small intestine is most likely impaired?",
+    "options": [
+      "Duodenum",
+      "Jejunum",
+      "Ileum",
+      "Stomach"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A 45-year-old male has a disease that prevents absorption of fat-soluble vitamins. He also has trouble digesting fatty foods. Where in the digestive tract is the issue most likely located?",
+    "options": [
+      "Duodenum",
+      "Jejunum",
+      "Ileum",
+      "Large intestine"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A child with celiac disease has damage to the microvilli in his small intestine. Which of the following is the most likely direct consequence of this condition?",
+    "options": [
+      "Decreased bile production",
+      "Increased movement of chyme",
+      "Reduced surface area for absorption",
+      "Blockage of pancreatic enzyme release"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A patient has a condition in which epithelial cells lining the jejunum are damaged. Which of the following symptoms would most likely result?",
+    "options": [
+      "Dehydration and electrolyte imbalance",
+      "Iron-deficiency anemia",
+      "Low energy due to reduced glucose uptake",
+      "Fat-soluble vitamin toxicity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A 32-year-old woman undergoes surgery that removes part of her ileum. Which of the following deficiencies is most likely to develop afterward?",
+    "options": [
+      "Calcium and iron deficiency",
+      "Vitamin C and B1 deficiency",
+      "Vitamin B12 and fat-soluble vitamin deficiency",
+      "Protein and simple sugar deficiency"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A 14-year-old athlete faints during training. Blood tests show low glucose levels. The doctor explains his body has already used up stored glycogen. Which organ is responsible for this storage and glucose release?",
+    "options": [
+      "Pancreas",
+      "Stomach",
+      "Liver",
+      "Kidney"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A patient undergoing a high-protein diet shows elevated urea levels in the blood. What is the primary route by which the body eliminates this excess urea?",
+    "options": [
+      "Skin through sweat",
+      "Lungs through exhalation",
+      "Kidneys through urine",
+      "Liver through bile"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A medical student is examining a nephron under the microscope. Which of the following best describes its function?",
+    "options": [
+      "Produces red blood cells",
+      "Absorbs nutrients from digested food",
+      "Filters blood to form urine",
+      "Carries oxygen to kidney tissue"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A patient has severe dehydration. What hormone is likely to be released to influence kidney function and conserve water?",
+    "options": [
+      "Insulin",
+      "Antidiuretic hormone (ADH)",
+      "Glucagon",
+      "Oxytocin"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A child presents with swelling in the face and legs, and lab reports show protein in the urine. What structure in the kidney is most likely damaged?",
+    "options": [
+      "Ureter",
+      "Nephron",
+      "Bladder",
+      "Urethra"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A person has only one kidney after a surgical removal. Which of the following is true regarding their health status?",
+    "options": [
+      "They will require immediate dialysis",
+      "They cannot survive without hormone supplements",
+      "They can live a normal life with one kidney",
+      "They must avoid all protein-rich foods"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following symptoms would most likely occur if the kidneys fail to maintain electrolyte balance?",
+    "options": [
+      "Increased hair growth",
+      "Irregular heart rhythm",
+      "Enhanced oxygen transport",
+      "Elevated skin temperature"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A patient with kidney failure opts for peritoneal dialysis. What anatomical structure serves as the blood filter in this process?",
+    "options": [
+      "The liver",
+      "The abdominal lining",
+      "The urinary bladder",
+      "The skin"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "After receiving a kidney transplant, a patient is prescribed immunosuppressant drugs. What is a major consequence of taking these drugs?",
+    "options": [
+      "Increased red blood cell production",
+      "Decreased heart rate",
+      "Greater risk of infections",
+      "Reduced urine output"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A gymnast sustains a spinal injury but still retains some ability to bend sideways. This suggests the injury most likely affected which structure without fully compromising flexibility?",
+    "options": [
+      "The pivot joint in the neck",
+      "The cartilaginous joints between vertebrae",
+      "The fibrous joints in the skull",
+      "The ball-and-socket joint in the hip"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A patient complains of shoulder pain and limited range of motion in all directions. Which joint is most likely affected?",
+    "options": [
+      "Saddle joint",
+      "Hinge joint",
+      "Gliding joint",
+      "Ball-and-socket joint"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A construction worker falls and damages the pivot joint between the top two vertebrae. Which of the following abilities would most likely be impaired?",
+    "options": [
+      "Tilting the head forward and backward",
+      "Rotating the head left and right",
+      "Bending at the waist",
+      "Nodding 'yes'"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A person has stiff knees with reduced ability to bend. What structure is most likely worn down, leading to bone-on-bone contact?",
+    "options": [
+      "Ligaments",
+      "Fibrous joints",
+      "Cartilage",
+      "Tendons"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A child's skull bones are still forming. What type of joint connects the plates of their skull?",
+    "options": [
+      "Synovial Joint",
+      "Fibrous joint",
+      "Pivot Joint",
+      "Gliding joint"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A person fractures their femur. Weeks later, doctors notice the bone is healing even though the patient is an adult. What cells are most responsible for this recovery?",
+    "options": [
+      "Osteoclasts",
+      "Red marrow cells",
+      "Osteoblasts",
+      "Haversian cells"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A patient has dangerously low calcium levels in their blood. Which hormone will most likely increase, and what bone cells will it activate?",
+    "options": [
+      "Calcitonin; osteoblasts",
+      "Calcitonin; osteocytes",
+      "PTH; osteoclasts",
+      "PTH; osteoblasts"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why is it important that bones contain blood vessels, such as those found in Haversian canals?",
+    "options": [
+      "They help transfer mechanical pressure into bone strength",
+      "They store bone marrow",
+      "They supply nutrients and remove waste from bone cells",
+      "They anchor ligaments and muscles"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A medical student argues that bones are not living tissue because they are hard and don't regenerate. How would you respond using evidence from the text?",
+    "options": [
+      "Bones are mostly dead, but surrounded by skin",
+      "Bones produce blood and store minerals, which proves they are alive",
+      "Bones cannot regenerate after injury, so the student is right",
+      "Bones are only alive when you're a child"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why is calcification essential during embryonic development?",
+    "options": [
+      "It removes cartilage from joints",
+      "It allows the skull to grow",
+      "It hardens cartilage into bone",
+      "It produces red blood cells"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If the thyroid gland fails to produce calcitonin, what might happen to a person's bones over time?",
+    "options": [
+      "Bones may overgrow due to excess calcium",
+      "Blood calcium levels may fall dangerously low",
+      "Osteoblasts would deposit too much calcium in bones",
+      "Bones may become brittle due to calcium loss"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A person experiences a severe injury and loses a large amount of blood. How might their skeletal system help compensate?",
+    "options": [
+      "Cartilage between ribs will contract to pump blood",
+      "Ligaments will transfer blood between bones",
+      "Yellow marrow will convert to red marrow to produce more blood cells",
+      "Compact bone will release stored blood"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A person begins shivering in response to cold temperatures. What kind of muscle is responsible for this heat-generating response, and why is it effective?",
+    "options": [
+      "Smooth muscle; it generates long-term sustained contractions",
+      "Cardiac muscle; it uses ATP rapidly to produce heat",
+      "Skeletal muscle; it contracts rapidly to release energy as heat",
+      "Fast-twitch muscle; it moves blood to the skin"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why does cardiac muscle have more mitochondria than skeletal muscle?",
+    "options": [
+      "It is involuntary and can't rest",
+      "It doesn't produce as much ATP",
+      "It is less striated and uses more energy",
+      "It stores energy for skeletal muscles"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What would most likely happen if calcium ions (Ca2+) were unable to bind to regulatory proteins during muscle contraction?",
+    "options": [
+      "Myosin would contract too quickly",
+      "Myosin would stay bound to actin forever",
+      "Myosin could not bind to actin, and no contraction would occur",
+      "The muscle would become rigid and over-contracted"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A new drug blocks the neuromuscular junction. What would be the result in terms of muscle contraction?",
+    "options": [
+      "Myosin would pull actin continuously",
+      "No calcium would be released, so muscles would not contract",
+      "Actin would break down, preventing movement",
+      "The heart would stop due to lack of blood flow"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best explains why muscles can only “pull” and not “push”?",
+    "options": [
+      "Myosin filaments only rotate in one direction",
+      "Actin is only anchored at one end of the sarcomere",
+      "Muscle fibers contract (shorten), but cannot elongate",
+      "Calcium prevents the muscle from pushing"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which structure acts as the “anchor” for actin filaments during a contraction?",
+    "options": [
+      "M line",
+      "Z line",
+      "Sarcomere",
+      "Neuromuscular junction"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What would happen if the motor neuron failed to release neurotransmitters at the neuromuscular junction?",
+    "options": [
+      "Muscles would contract uncontrollably",
+      "Myosin would be overactive",
+      "Calcium channels would remain closed",
+      "ATP would build up in the muscle"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A patient presents with skin that is dry, flaky, and cracking, especially in areas exposed to frequent washing. Lab results show reduced oil secretion. Which part of the skin is most likely underperforming?",
+    "options": [
+      "Epidermis",
+      "Eccrine glands",
+      "Sebaceous glands",
+      "Subcutaneous layer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A child falls while playing and scrapes their knee. The area bleeds slightly and becomes red and swollen. Which layer of skin was primarily damaged in this injury?",
+    "options": [
+      "Epidermis only",
+      "Dermis",
+      "Subcutaneous fat",
+      "Hair follicle"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A new drug blocks the neuromuscular junction. What would be the result in terms of muscle contraction?",
+    "options": [
+      "Myosin would pull actin continuously",
+      "No calcium would be released, so muscles would not contract",
+      "Actin would break down, preventing movement",
+      "The heart would stop due to lack of blood flow"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best explains why muscles can only “pull” and not “push”?",
+    "options": [
+      "Myosin filaments only rotate in one direction",
+      "Actin is only anchored at one end of the sarcomere",
+      "Muscle fibers contract (shorten), but cannot elongate",
+      "Calcium prevents the muscle from pushing"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which structure acts as the “anchor” for actin filaments during a contraction?",
+    "options": [
+      "M line",
+      "Z line",
+      "Sarcomere",
+      "Neuromuscular junction"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What would happen if the motor neuron failed to release neurotransmitters at the neuromuscular junction?",
+    "options": [
+      "Muscles would contract uncontrollably",
+      "Myosin would be overactive",
+      "Calcium channels would remain closed",
+      "ATP would build up in the muscle"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A patient presents with skin that is dry, flaky, and cracking, especially in areas exposed to frequent washing. Lab results show reduced oil secretion. Which part of the skin is most likely underperforming?",
+    "options": [
+      "Epidermis",
+      "Eccrine glands",
+      "Sebaceous glands",
+      "Subcutaneous layer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A child falls while playing and scrapes their knee. The area bleeds slightly and becomes red and swollen. Which layer of skin was primarily damaged in this injury?",
+    "options": [
+      "Epidermis only",
+      "Dermis",
+      "Subcutaneous fat",
+      "Hair follicle"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A construction worker notices that their hands have developed very thick and tough skin over time. Which protein is most responsible for this adaptation?",
+    "options": [
+      "Collagen",
+      "Elastin",
+      "Keratin",
+      "Melanin"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "An elderly patient complains about wrinkles and loss of skin elasticity. What is the most likely cause of these age-related changes?",
+    "options": [
+      "Increase in melanin production",
+      "Clumping of collagen and reduction in elastin",
+      "Excess keratin production",
+      "Enlargement of sebaceous glands"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If the body is exposed to a hot environment, how does the integumentary system help maintain homeostasis?",
+    "options": [
+      "Hair follicles close to conserve moisture",
+      "Oil glands secrete more sebum to protect the skin",
+      "Sweat glands increase sweat production for evaporative cooling",
+      "Blood vessels constrict to reduce heat loss"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A scientist blocks the function of melanocytes in lab animals. What effect would this most likely have?",
+    "options": [
+      "Increased collagen production",
+      "Thinner subcutaneous fat layer",
+      "Higher risk of UV damage to internal tissues",
+      "Decreased sweating"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If a person has damage to the subcutaneous layer of the skin, which of the following consequences is most likely?",
+    "options": [
+      "Decreased flexibility",
+      "Increased melanin production",
+      "Poor temperature insulation and increased injury risk to internal organs",
+      "Hyperactive sweat glands"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A 41-year-old man visits a dermatologist complaining of a patch of skin that has become darker and rougher in appearance over several months. He spends a lot of time outdoors without sunscreen. What might the doctor suspect is happening?",
+    "options": [
+      "Sunburn",
+      "Skin cancer",
+      "Melanin overproduction due to UV exposure",
+      "Keratin overproduction"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following changes in the integumentary system is most likely to occur with prolonged exposure to cold weather?",
+    "options": [
+      "Increased sweating to cool the body",
+      "Vasodilation to release excess heat",
+      "Constriction of blood vessels to conserve heat",
+      "Increased oil production to protect the skin"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A 16-year-old girl is experiencing the onset of puberty. She begins to notice changes such as breast enlargement, widening of the pelvis, and increased body fat. Which hormone is primarily responsible for these changes?",
+    "options": [
+      "Progesterone",
+      "Estrogen",
+      "Follicle-stimulating hormone (FSH)",
+      "Testosterone"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A 22-year-old woman has been diagnosed with polycystic ovary syndrome (PCOS), which leads to irregular menstruation and elevated levels of testosterone. How might this condition affect her reproductive system?",
+    "options": [
+      "It may prevent ovulation and cause difficulty in becoming pregnant.",
+      "It leads to overproduction of estrogen, causing early puberty.",
+      "It stimulates the development of more egg cells each month.",
+      "It increases the chances of fertilization and pregnancy."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 25-year-old male is undergoing hormone replacement therapy to increase testosterone levels. Which of the following characteristics would most likely be enhanced by this therapy?",
+    "options": [
+      "Increased muscle mass and body hair",
+      "Development of larger breasts",
+      "Reduction in bone density",
+      "Decrease in sperm production"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman has been trying to conceive for several months without success. Upon examination, her ovaries are found to have underdeveloped egg cells. Which hormone deficiency might be responsible for this condition?",
+    "options": [
+      "Estrogen",
+      "Luteinizing hormone (LH)",
+      "Progesterone",
+      "Follicle-stimulating hormone (FSH)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A 47-year-old male patient experiences a swelling in the scrotum and pain in the testicles. After examination, it is determined that the problem is related to an infection in the epididymis. What function of the epididymis is most likely affected?",
+    "options": [
+      "Sperm maturation and storage",
+      "Production of testosterone",
+      "Production of seminal fluid",
+      "Regulation of scrotal temperature"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 15-year-old girl is just beginning her menstrual cycle. The release of which hormone is most directly responsible for the development and release of the egg from the ovary?",
+    "options": [
+      "Progesterone",
+      "Luteinizing hormone (LH)",
+      "Follicle-stimulating hormone (FSH)",
+      "Estrogen"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A male adolescent is undergoing puberty and begins to notice changes in his body, including deepening of his voice and increased muscle mass. Which hormone is most likely responsible for these changes?",
+    "options": [
+      "Testosterone",
+      "Estrogen",
+      "Luteinizing hormone (LH)",
+      "Progesterone"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A woman who is in her third trimester of pregnancy notices that she has stopped ovulating. What is the most likely cause of this absence of ovulation?",
+    "options": [
+      "High levels of progesterone and estrogen",
+      "Low levels of follicle-stimulating hormone (FSH)",
+      "Increased production of testosterone",
+      "High levels of luteinizing hormone (LH)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A male patient with a low sperm count is diagnosed with a testosterone deficiency. How might this deficiency affect his ability to produce sperm?",
+    "options": [
+      "Testosterone stimulates the testes to produce sperm, so a deficiency could impair sperm production.",
+      "Testosterone decreases sperm motility, leading to infertility.",
+      "Testosterone increases the temperature in the testes, reducing sperm count.",
+      "Testosterone has no impact on sperm production."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "During in vitro fertilization (IVF), multiple eggs are removed from a woman's ovaries. Which hormone is typically given beforehand to stimulate this process?",
+    "options": [
+      "Progesterone",
+      "Testosterone",
+      "Estrogen",
+      "FSH (Follicle-Stimulating Hormone)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If LH is not released in sufficient amounts in females, what part of the menstrual cycle would be disrupted?",
+    "options": [
+      "Egg maturation",
+      "Menstrual bleeding",
+      "Ovulation",
+      "Thickening of the uterine lining"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why do testes hang outside the body in the scrotum?",
+    "options": [
+      "To be closer to the urethra",
+      "To maintain a cooler temperature for sperm production",
+      "To increase testosterone production",
+      "To protect them from injury"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What would most likely happen if the pituitary gland did not release FSH at the beginning of the menstrual cycle?",
+    "options": [
+      "Ovulation would occur early",
+      "The uterine lining would shed prematurely",
+      "A follicle would not develop and the egg would not mature",
+      "Progesterone levels would rise too quickly"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "During which phase is the endometrium most ready to receive a fertilized egg, and what hormone supports this?",
+    "options": [
+      "Flow phase; LH",
+      "Follicular phase; FSH",
+      "Luteal phase; progesterone",
+      "Ovulation; estrogen"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the role of estrogen in the follicular phase of the menstrual cycle?",
+    "options": [
+      "Trigger the breakdown of the uterine lining",
+      "Stimulate the release of progesterone",
+      "Promote the thickening of the endometrium and increase LH levels",
+      "Prevent the maturation of other follicles"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why does only one egg typically mature and release each month, even though both ovaries contain many follicles?",
+    "options": [
+      "One ovary is usually dominant and prevents the other from working",
+      "Hormonal feedback loops limit FSH and LH to one follicle",
+      "The uterus can only handle one egg at a time",
+      "The other eggs are not yet genetically ready"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which structure releases progesterone after ovulation, and what is its function?",
+    "options": [
+      "Follicle; triggers the LH surge",
+      "Hypothalamus; stimulates FSH release",
+      "Corpus luteum; prepares and maintains the endometrium",
+      "Ovary; causes the shedding of the uterine lining"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What role does testosterone play in the male reproductive system?",
+    "options": [
+      "It causes the release of the egg during ovulation",
+      "It initiates meiosis and the development of sperm cells",
+      "It prevents the production of sperm",
+      "It thickens the uterine lining"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why do sperm need many mitochondria in their midpiece?",
+    "options": [
+      "To activate the acrosome",
+      "To provide energy for the flagellum to move",
+      "To carry DNA into the egg",
+      "To store proteins for the egg"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A healthy couple has been trying to conceive for a year. The woman has regular cycles and ovulation confirmed through hormone testing. The man's semen analysis shows normal sperm count but unusually shaped sperm and low motility. Which structure in the sperm is most likely responsible for the low motility?",
+    "options": [
+      "Head",
+      "Acrosome",
+      "Midpiece",
+      "Tail"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A male bodybuilder begins taking testosterone supplements. After a few months, he notices a decrease in testicular size and fertility. What is the physiological explanation for these symptoms?",
+    "options": [
+      "Increased testosterone stimulates more sperm production",
+      "High external testosterone suppresses FSH and LH, reducing sperm production",
+      "Testosterone only affects muscles, not reproductive organs",
+      "Sperm cells cannot develop unless estrogen is present"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Leah has been feeling tired and has had mild lower abdominal pain. She hasn't seen a doctor yet, but after a friend encourages her, she gets tested and is diagnosed with trichomoniasis, a parasitic STD. Which of the following is true about Leah's condition?",
+    "options": [
+      "It will go away without treatment",
+      "Trichomoniasis is caused by a virus",
+      "It can be treated with antibiotics",
+      "Only men can carry trichomoniasis"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A 20-year-old male tests positive for HIV, which he likely contracted months earlier. He feels fine but is surprised by the diagnosis. Why is early detection of HIV critical?",
+    "options": [
+      "HIV can be cured if caught early",
+      "HIV always shows symptoms right away",
+      "Treatment can slow the virus and protect the immune system",
+      "The virus is only contagious during symptoms"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A teenage girl receives the HPV vaccine at school. Her friend asks why she needs a vaccine for something that isn’t dangerous. What is the main reason young people are vaccinated against HPV?",
+    "options": [
+      "HPV causes infertility",
+      "HPV only affects men",
+      "HPV can lead to cervical cancer later in life",
+      "HPV makes it harder to get pregnant"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In the menstrual cycle, when do levels of luteinizing hormone rise most dramatically?",
+    "options": [
+      "just before the flow phase",
+      "in the absence of estrogen",
+      "during the follicular phase",
+      "after ovulation is finished"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The release of LH and FSH by the male pituitary gland results in",
+    "options": [
+      "decreased sperm production.",
+      "stimulation of the hypothalamus.",
+      "increased testosterone levels.",
+      "suppression of the pituitary."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a zygote?",
+    "options": [
+      "the head region of a sperm that helps a sperm enter an egg",
+      "a fertilized egg that has 23 chromosomes from each parent",
+      "an area on the egg’s membrane where sperm are able to enter",
+      "the whiplike tail of a sperm that enables it to swim to the egg"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a zygote?",
+    "options": [
+      "the head region of a sperm that helps a sperm enter an egg",
+      "a fertilized egg that has 23 chromosomes from each parent",
+      "an area on the egg’s membrane where sperm are able to enter",
+      "the whiplike tail of a sperm that enables it to swim to the egg"
+    ],
+    "answer": 0
+  }
+]
